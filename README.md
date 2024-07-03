@@ -1,7 +1,7 @@
 # Animated Login Form
 
 ## Demo
-Check out the live demo [here](https://ab1ngeorge.github.io/Automobile-Showcase-Slider/).
+Check out the live demo [here](https://ab1ngeorge.github.io/Animated-Login-Form/).
 
 
 This animated login form demonstrates a smooth slide-up animation when loaded. Although GitHub README files do not support direct HTML/CSS animations, you can create interactive elements like this form and showcase them using images or GIFs.
